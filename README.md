@@ -18,7 +18,7 @@
 
  **Objetivos da prática:**
 
-        * Instalar e configurar o Flutter SDK e o ambiente de desenvolvimento integrado (IDE)de acordo com as melhores práticas;
+     * Instalar e configurar o Flutter SDK e o ambiente de desenvolvimento integrado (IDE)de acordo com as melhores práticas;
 
 	* Empregar Widgets fundamentais, como MaterialApp, Scaffold, AppBar, Text e RaisedButton;
 
